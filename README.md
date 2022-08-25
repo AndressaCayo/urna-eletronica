@@ -58,5 +58,5 @@ Mas vamos para o que importa: O Teste.
 6. Plus*: desenvolver com algum framework JS (AngularJS, Angular 2+, React, Vue ...).
 7. Plus II*: layout (você não é designer, mas sabemos como uma urna se parece).
 8. Plus III*: outras tecnologias utilizadas (Dapper, Bootstrap ...).
-
+ xjhhjnhjhc
 \*: _o importante são os outros pontos, mas esse poderá ser escolhido como ponto de desempate_
